@@ -9,7 +9,7 @@ import {
 } from "@ant-design/icons";
 import { useState, useEffect } from "react";
 
-const logo = "https://cdn-icons-png.flaticon.com/512/9293/9293472.png";
+const logo = "https://cdn-icons-png.flaticon.com/512/4843/4843056.png";
 
 const Navbar = () => {
   const [activeMenu, setActiveMenu] = useState(true);
